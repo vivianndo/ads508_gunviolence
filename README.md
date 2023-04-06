@@ -22,8 +22,6 @@
 ## Methods
 * Exploratory Data Analysis
 * Data Preprocessing/Preparation
-* Data Visualization
-* Statistical Modeling
 * Data Modeling & Evaluation Metrics
 
 ## Technologies
@@ -31,8 +29,6 @@
 * Jupyter Notebook
 * Python
 * SQL
-* Google Slides
-* Google Documents
 
 ## Abstract
 The company’s hospitals are experiencing staffing shortages and overstaffing of ER nurses and physicians.  This is due to fluctuating patient admissions from local gun violence incidents.  The company would like to undertake a data science project to improve staffing accuracy, in terms of total staff count shifts, days of the week and months or holidays throughout the year in order to better serve the location population they reside in.
