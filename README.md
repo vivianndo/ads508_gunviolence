@@ -7,6 +7,7 @@
 2. Run the following python Jupyter notebooks in this order:
 * /set_up/03_Create_S3_Bucket_And_Files.ipynb
 * /notebooks/Data_Preparation.ipynb
+* /notebooks/Data_Modeling.ipynb
 
 ## Partner/Contributors
 * Vivian Do
