@@ -1,0 +1,19 @@
+The two PDFs in this folder contain the AWS Estimated Costs for the Projects Involved.  
+
+1. General AWS Pricing Estimates for the following features:
+* Amazon Athena
+* S3 Bucket
+* Autopilot
+* Data Wrangler
+* SageMaker
+* Feature Store
+* Feature Transformation
+
+Price estimates based on usage by:
+* 3 Data Scientists
+* 1 Notebook Instance Per Data Scientist for 8 Hours/Day
+* 100 Processing Jobs/Month with Each Job Requiring 1 Hour of Processing Time & Capacity
+
+2. AWS Forecast Pricing Estimates
+* Assuming Forecast Requests once a week, 4 weeks a month
+* Initial Model Development and Training Period
