@@ -21,9 +21,9 @@
 
 
 ## Methods
-* Exploratory Data Analysis
-* Data Preprocessing/Preparation
-* Data Modeling & Evaluation Metrics
+* Exploratory Data Analysis Using SageMaker AutoPilot & Pandas
+* Data Preprocessing/Preparation using Python
+* Data Modeling & Evaluation Metrics Using SageMaker Built-In Algorithms
 
 ## Technologies
 * AWS Sage Maker
@@ -71,5 +71,5 @@ Approximate size of the data ranges from 1Mb to 5Mb.
 ## References
 
 # Presentation and Projects
-
+Presentation: https://docs.google.com/presentation/d/1K-srFDJUDqFU0IXPvaG0phpDY9vmIW-bhOR-J_xXvg8/edit?usp=sharing
 
